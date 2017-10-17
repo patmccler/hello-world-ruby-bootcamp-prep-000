@@ -1,3 +1,2 @@
-ruby
 
 puts "hello, world"
